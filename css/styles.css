@@ -1,0 +1,34 @@
+body{
+    background-color: #f4f6f9;
+    font-family: 'Poppins', sans-serif;
+}
+
+.login-container{
+    height: 100vh;
+}
+
+.login-card{
+    border: none;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.left-panel{
+    background: linear-gradient(135deg,#0d6efd,#0b3d91);
+    color: white;
+}
+
+.btn-primary{
+    background-color: #0d6efd;
+    border: none;
+    border-radius: 10px;
+}
+
+.btn-primary:hover{
+    background-color: #0b5ed7;
+}
+
+.form-control{
+    border-radius: 10px;
+    padding: 12px;
+}

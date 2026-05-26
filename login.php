@@ -92,9 +92,18 @@ body{
 
 <div class="text-center">
 
-<h1 class="fw-bold">Ticket System</h1>
+<img
+src="assets/img/logo.png"
+width="180"
+class="mb-4">
 
-<p>Sistema de soporte técnico</p>
+<h3 class="fw-bold">
+Mesa de Ayuda
+</h3>
+
+<p>
+Sistema de soporte técnico empresarial
+</p>
 
 </div>
 

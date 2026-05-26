@@ -48,19 +48,19 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
 
 <h3>Ticket System</h3>
 
-<a href="#">
+<a href="dashboard.php">
 <i class="fa-solid fa-house"></i> Dashboard
 </a>
 
-<a href="#">
+<a href="tickets.php">
 <i class="fa-solid fa-ticket"></i> Tickets
 </a>
 
-<a href="#">
+<a href="usuarios.php">
 <i class="fa-solid fa-users"></i> Usuarios
 </a>
 
-<a href="#">
+<a href="reportes.php">
 <i class="fa-solid fa-chart-column"></i> Reportes
 </a>
 
